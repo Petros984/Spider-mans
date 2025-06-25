@@ -1,0 +1,42 @@
+img{
+    width: 700px
+}
+
+body{
+    height: 4100px;
+    background-color: darkred;
+    background-image: url(./images/bg4.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+    
+
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+    color:rgb(255, 248, 59);
+    text-shadow: 0px 0px 30px black;
+}
+
+p{
+    font-size: 28px;
+    background-color:rgba(255, 214, 65, 0.503);
+    border-radius: 30px;
+    padding: 20px;
+}
+
+button{
+    font-size: 20px;
+    padding: 20px 50px;
+    border: none;
+    background-color: rgb(255, 252, 104);
+    border-radius: 20px;
+    box-shadow: 0px 0px 50px;
+    margin-top: 100px;
+}
+
+button:hover{
+    background-color: rgb(133, 143, 0);
+}
